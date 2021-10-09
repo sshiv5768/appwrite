@@ -3,8 +3,10 @@
 return [
     'af', // Afrikaans
     'ar', // Arabic
+    'as', // Assamese
     'be', // Belarusian
     'bg', // Bulgarian
+    'bh', // Bihari
     'bn', // Bengali
     'bs', // Bosnian
     'ca', // Catalan
@@ -12,6 +14,7 @@ return [
     'da', // Danish
     'de', // German
     'en', // English
+    'eo', // Esperanto
     'es', // Spanish
     'fa', // Farsi/Persian
     'fi', // Finnish
@@ -50,6 +53,7 @@ return [
     'ru', // Russian
     'sa', //Sanskrit
     'si', // Sinhala
+    'sk', // Slovakia
     'sl', // Slovenian
     'sq', // Albanian
     'sv', // Swedish

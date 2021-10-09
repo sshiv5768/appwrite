@@ -263,8 +263,10 @@ $register->set('geodb', function () {
 Locale::$exceptions = false;
 Locale::setLanguageFromJSON('af', __DIR__.'/config/locale/translations/af.json');
 Locale::setLanguageFromJSON('ar', __DIR__.'/config/locale/translations/ar.json');
+Locale::setLanguageFromJSON('as', __DIR__.'/config/locale/translations/as.json');
 Locale::setLanguageFromJSON('be', __DIR__.'/config/locale/translations/be.json');
 Locale::setLanguageFromJSON('bg', __DIR__.'/config/locale/translations/bg.json');
+Locale::setLanguageFromJSON('bh', __DIR__.'/config/locale/translations/bh.json');
 Locale::setLanguageFromJSON('bn', __DIR__.'/config/locale/translations/bn.json');
 Locale::setLanguageFromJSON('bs', __DIR__.'/config/locale/translations/bs.json');
 Locale::setLanguageFromJSON('ca', __DIR__.'/config/locale/translations/ca.json');
@@ -273,6 +275,7 @@ Locale::setLanguageFromJSON('da', __DIR__.'/config/locale/translations/da.json')
 Locale::setLanguageFromJSON('de', __DIR__.'/config/locale/translations/de.json');
 Locale::setLanguageFromJSON('el', __DIR__.'/config/locale/translations/el.json');
 Locale::setLanguageFromJSON('en', __DIR__.'/config/locale/translations/en.json');
+Locale::setLanguageFromJSON('eo', __DIR__.'/config/locale/translations/eo.json');
 Locale::setLanguageFromJSON('es', __DIR__.'/config/locale/translations/es.json');
 Locale::setLanguageFromJSON('fa', __DIR__.'/config/locale/translations/fa.json');
 Locale::setLanguageFromJSON('fi', __DIR__.'/config/locale/translations/fi.json');
@@ -309,6 +312,7 @@ Locale::setLanguageFromJSON('ro', __DIR__.'/config/locale/translations/ro.json')
 Locale::setLanguageFromJSON('ru', __DIR__ . '/config/locale/translations/ru.json');
 Locale::setLanguageFromJSON('sa', __DIR__ . '/config/locale/translations/sa.json');
 Locale::setLanguageFromJSON('si', __DIR__ . '/config/locale/translations/si.json');
+Locale::setLanguageFromJSON('sk', __DIR__ . '/config/locale/translations/sk.json');
 Locale::setLanguageFromJSON('sl', __DIR__ . '/config/locale/translations/sl.json');
 Locale::setLanguageFromJSON('sq', __DIR__ . '/config/locale/translations/sq.json');
 Locale::setLanguageFromJSON('sv', __DIR__ . '/config/locale/translations/sv.json');
